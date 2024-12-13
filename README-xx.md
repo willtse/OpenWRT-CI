@@ -1,3 +1,4 @@
 
 复制 IPQ60XX-WIFI-NO.txt 到 SS01-IPQ60XX-WIFI-NO.txt
 复制 QCA-ALL.yml 到 SS01-IPQ60XX-WIFI-NO.yml
+复制 GENERAL.txt 到 GENERAL-xx.txt
